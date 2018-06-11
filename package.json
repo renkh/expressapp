@@ -1,0 +1,22 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renkh/expressapp.git"
+  },
+  "author": "renat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renkh/expressapp/issues"
+  },
+  "homepage": "https://github.com/renkh/expressapp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
